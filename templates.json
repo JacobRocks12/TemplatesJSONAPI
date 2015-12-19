@@ -2,4 +2,14 @@
   "name": "Hyperspace",
   "download_link": "https://github.com/JacobRocks12/TemplatesJSONAPI/blob/master/files/hyperspace.zip?raw=true",
   "image": "https://raw.githubusercontent.com/JacobRocks12/TemplatesJSONAPI/master/images/hyperspace.png"
+},
+{
+  "name": "Future Imperfect",
+  "download_link": "https://github.com/JacobRocks12/TemplatesJSONAPI/blob/master/files/future-imperfect.zip?raw=true",
+  "image": "https://raw.githubusercontent.com/JacobRocks12/TemplatesJSONAPI/master/images/future-imperfect.png"
+},
+{
+  "name": "Solid State",
+  "download_link": "https://github.com/JacobRocks12/TemplatesJSONAPI/blob/master/files/solid-state.zip?raw=true",
+  "image": "https://raw.githubusercontent.com/JacobRocks12/TemplatesJSONAPI/master/images/solid-state.png"
 }
